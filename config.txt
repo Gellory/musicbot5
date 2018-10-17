@@ -1,6 +1,6 @@
 token=NTAxOTIyMjY3NDIxMzQzNzU0.Dqgk2A.mZMd-dmwPP7SimasN5BzMV4Yhfs
 owner=302836004237344779
-prefix=5
+prefix=4
 game=ELDERS EMPIRE
 stayinchannel=true
 songinstatus=true
